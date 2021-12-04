@@ -2,12 +2,8 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
-        Tema 1 (Fizz Buzz)(predata pe mail):
 
-package com.company;
-import java.util.Scanner;
+
         public class Main {
             public static void main(String[] args) {
                 Scanner input = new Scanner(System.in);
@@ -24,5 +20,4 @@ import java.util.Scanner;
                 }
             }
         }
-    }
-}
+   
